@@ -1,0 +1,6 @@
+{
+  "GCLOUD_PROJECT": "[ramesh-sakhi]",
+  "DATA_BACKEND": "mongodb",
+  "MONGO_URL": "mongodb://[104.154.247.212]:27017/local",
+  "MONGO_COLLECTION": "books"
+}
